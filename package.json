@@ -1,72 +1,23 @@
 {
-  "_from": "cordova-plugin-adam-imagepicker@1.0.2",
-  "_id": "cordova-plugin-adam-imagepicker@1.0.2",
-  "_inBundle": false,
-  "_integrity": "sha512-vgtSHidTtfx6RkXADHMDCmhunXEPIo7YjRiEI8jLp2X3KEbrQ5MpsDZrRJ92BUgFSQ907oxT/MqkjUlDejKnPw==",
-  "_location": "/cordova-plugin-adam-imagepicker",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "cordova-plugin-adam-imagepicker@1.0.2",
-    "name": "cordova-plugin-adam-imagepicker",
-    "escapedName": "cordova-plugin-adam-imagepicker",
-    "rawSpec": "1.0.2",
-    "saveSpec": null,
-    "fetchSpec": "1.0.2"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/cordova-plugin-adam-imagepicker/-/cordova-plugin-adam-imagepicker-1.0.2.tgz",
-  "_shasum": "9ba41f722f585ff0a7505b06ae6a7f310ab9fa51",
-  "_spec": "cordova-plugin-adam-imagepicker@1.0.2",
-  "_where": "C:\\work\\Wm.Client.Web\\App",
-  "author": {
-    "name": "adam198824"
-  },
-  "bugs": {
-    "url": "https://github.com/adam198824/cordova-plugin-ImagePicker/issues"
-  },
-  "bundleDependencies": false,
-  "cordova": {
-    "id": "cordova-plugin-adam-imagepicker",
-    "platforms": [
-      "ios",
-      "android"
-    ]
-  },
-  "dependencies": {
-    "async": "^2.6.0"
-  },
-  "deprecated": false,
-  "description": "Cordova ImagePicker Plugin",
-  "devDependencies": {
-    "jshint": "^0.1.8"
-  },
-  "engines": {
-    "cordovaDependencies": {
-      "1.0.0": {
-        "cordova-android": ">6.0.0"
-      },
-      "2.0.0": {
-        "cordova": ">100"
-      }
-    }
-  },
-  "homepage": "https://github.com/adam198824/cordova-plugin-ImagePicker#readme",
-  "keywords": [
-    "cordova",
-    "cordova-ios",
-    "cordova-android",
-    "ImagePicker"
-  ],
-  "license": "Apache-2.0",
   "name": "cordova-plugin-adam-imagepicker",
+  "version": "1.0.3",
+  "description": "修改自 https://github.com/giantss/cordova-plugin-ImagePicker 主要是为了修改以及发布npm",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adam198824/cordova-plugin-ImagePicker.git"
+    "url": "git+https://github.com/adam198824/cordova-plugin-image-picker.git"
   },
-  "version": "1.0.2"
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adam198824/cordova-plugin-image-picker/issues"
+  },
+  "homepage": "https://github.com/adam198824/cordova-plugin-image-picker#readme"
 }
